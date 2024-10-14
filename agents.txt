@@ -1,0 +1,7 @@
+Alpha,Charlie
+Alpha,Golf
+Bravo,Delta
+Delta,Alpha
+Delta,Echo
+Echo,Fox
+Echo,Hotel
